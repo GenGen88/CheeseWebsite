@@ -2,7 +2,6 @@ const express = require('express');
 const path = require('path');
 
 const app = express();
-const __dirname = "C:\Users\gldia\OneDrive\Work\express-react-project\client\src"
 
 app.use(express.static(path.join(__dirname, 'client/build')));
 
