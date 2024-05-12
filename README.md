@@ -28,6 +28,10 @@ This project is a simple cheese price calculator website built with React and No
    ```
 2. Open a web browser and go to `http://localhost:3000` to view the app.
 
+## Preview
+![image](https://github.com/GenGen88/CheeseWebsite/assets/121944101/5929f034-b60d-44b3-ad36-214d809f2780)
+
+
 ## Additional Notes
 - If more time were available, full CRUD capabilities could be implemented to allow users to create, update, and delete cheese types, as well as read them.
 - The Dockerfile could be refined to work in a production build environment.
